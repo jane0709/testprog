@@ -1,4 +1,4 @@
-"""运行后显示一个静态爱心，没有动画。"""
+"""运行后显示一个静态爱心，没有动画。hhhhh"""
 
 import math
 
@@ -27,6 +27,7 @@ def draw_heart():
     fig.tight_layout()
     plt.show()
 
+    print("爱心绘制完成！") 
 
 if __name__ == "__main__":
     draw_heart()
